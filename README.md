@@ -1,9 +1,12 @@
-## Hi there 👋
+## 👋 Introduction  
 
+![status](https://img.shields.io/badge/status-up-brightgreen) ![Experience](https://img.shields.io/badge/experience-5%20years-blue)  
 
-### 🧰 Languages and Tools
+Hi there! I'm **Thyago**, a backend developer with 5+ years of experience in building scalable and efficient systems. My expertise lies in **API development**, **system integration**, and **database optimization**.  
 
+Currently, I focus on maintaining and developing RESTful APIs, ensuring seamless system interactions in large-scale environments. I'm passionate about solving complex problems, clean code practices, and team collaboration.
 
+## 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -21,31 +24,14 @@
 
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" />
 
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-
-
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/192158606-7c2ef6bd-6e04-47cf-b5bc-da2797cb5bda.png" />
 
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
 <img align="left" alt="MSSQL (SQL Server)" width="30px" style="padding-right:10px;" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" />
 
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />
-<br />
+</br>
 
-#
+## 📫 Contact  
 
-<!--
-**tsantos8080/tsantos8080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✉️ [Email](mailto:tsantos8080@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tsantos8080/)
