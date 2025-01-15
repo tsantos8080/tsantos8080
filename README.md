@@ -1,7 +1,5 @@
 ## 👋 Introduction  
 
-![status](https://img.shields.io/badge/status-up-brightgreen) ![Experience](https://img.shields.io/badge/experience-5%20years-blue)  
-
 Hi there! I'm **Thyago**, a backend developer with 5+ years of experience in building scalable and efficient systems. My expertise lies in **API development**, **system integration**, and **database optimization**.  
 
 Currently, I focus on maintaining and developing RESTful APIs, ensuring seamless system interactions in large-scale environments. I'm passionate about solving complex problems, clean code practices, and team collaboration.
