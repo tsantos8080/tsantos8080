@@ -5,9 +5,9 @@ Hi there! I'm **Thyago**, a **Senior Backend Engineer** with 7+ years of continu
 My engineering focus is on modernizing monolithic architectures, building resilient event-driven pipelines, and neutralizing bottlenecks in heavy-traffic environments (4M+ weekly requests). I advocate for pragmatism, observability, and zero-downtime deployments.
 
 **Core Engineering Focus:**
-- ⚙️ **Architecture:** Hexagonal (Ports & Adapters), Event-Driven Systems, Microservices.
-- ⚡ **Performance:** Database optimization, join decomposition, and distributed rate limiting.
-- 🛡️ **Resilience:** Idempotency, asynchronous processing, and state machine design.
+- **Architecture:** Hexagonal (Ports & Adapters), Event-Driven Systems, Microservices.
+- **Performance:** Database optimization, join decomposition, and distributed rate limiting.
+- **Resilience:** Idempotency, asynchronous processing, and state machine design.
 
 ## 🧰 Tech Stack & Infrastructure
 
